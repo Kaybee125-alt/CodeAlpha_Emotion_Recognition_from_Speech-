@@ -1,4 +1,4 @@
-# CodeAlpha Emotion Recognition from Speech
+# Emotion Recognition from Speech
 
 ## 1. Project Overview
 
